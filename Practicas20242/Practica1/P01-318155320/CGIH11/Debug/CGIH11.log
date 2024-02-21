@@ -1,4 +1,0 @@
-﻿  segundo_main.cpp
-C:\Users\ferna\OneDrive\Documentos\CGIH1120242\CGIH11\CGIH11\segundo_main.cpp(148,10): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
-C:\Users\ferna\OneDrive\Documentos\CGIH1120242\CGIH11\CGIH11\segundo_main.cpp(308,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-  CGIH11.vcxproj -> C:\Users\ferna\OneDrive\Documentos\CGIH1120242\CGIH11\Debug\CGIH11.exe
