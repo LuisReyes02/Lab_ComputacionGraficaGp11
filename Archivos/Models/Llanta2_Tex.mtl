@@ -1,7 +1,7 @@
 # 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
-# File Created: 26.03.2024 13:23:51
+# File Created: 24.03.2024 14:33:03
 
-newmtl 02___Default
+newmtl Llanta2_wire_224086086
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -12,5 +12,5 @@ newmtl 02___Default
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka LlantaTex.tga
-	map_Kd LlantaTex.tga
+	map_Ka Caucho.tga
+	map_Kd Caucho.tga
