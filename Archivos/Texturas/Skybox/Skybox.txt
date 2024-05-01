@@ -1,1 +1,1 @@
-En esta carpeta se encuentran los imagenes de la Skybox.
+En esta carpeta se encuentran los imagenes de la skybox.
